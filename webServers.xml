@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ac48329-a543-4be2-92ad-8e342776a244" name="alpha" url="http://test.dev.local">
+        <fileTransfer host="test.dev.local" port="22" privateKey="C:\Users\Александр\Documents\private" rootFolder="/home/zhuk/www/static" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
