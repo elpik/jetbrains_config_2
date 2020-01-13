@@ -1,0 +1,10 @@
+<application>
+  <component name="CompletionMLRankingSettings">
+    <option name="language2state">
+      <map>
+        <entry key="JavaScript" value="true" />
+        <entry key="PHP" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
