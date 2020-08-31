@@ -13,6 +13,7 @@
       <mapping pattern="notification" type="TypeScript" />
       <mapping pattern="ProductsList" type="TypeScript" />
       <mapping pattern="ProductsListModel" type="TypeScript" />
+      <mapping pattern="Cluster" type="TypeScript" />
       <mapping pattern="AddressStep" type="TypeScript JSX" />
       <mapping pattern="ProfileModel" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
