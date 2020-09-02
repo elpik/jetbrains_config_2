@@ -10,6 +10,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="productListModel" type="TypeScript" />
       <mapping pattern="notification" type="TypeScript" />
       <mapping pattern="ProductsList" type="TypeScript" />
       <mapping pattern="ProductsListModel" type="TypeScript" />
