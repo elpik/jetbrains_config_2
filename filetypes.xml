@@ -1,28 +1,25 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="exludes" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern="yarn" type="PLAIN_TEXT" />
       <mapping pattern="deploy_bash" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping ext="buffer" type="PLAIN_TEXT" />
+      <mapping pattern="exludes" type="PLAIN_TEXT" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="buffer" type="PLAIN_TEXT" />
+      <mapping pattern="Cluster" type="TypeScript" />
+      <mapping pattern="ProductsList" type="TypeScript" />
       <mapping pattern="productListModel" type="TypeScript" />
       <mapping pattern="notification" type="TypeScript" />
-      <mapping pattern="ProductsList" type="TypeScript" />
       <mapping pattern="ProductsListModel" type="TypeScript" />
-      <mapping pattern="Cluster" type="TypeScript" />
-      <mapping pattern="AddressStep" type="TypeScript JSX" />
       <mapping pattern="ProfileModel" type="TypeScript JSX" />
+      <mapping pattern="AddressStep" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
