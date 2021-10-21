@@ -5,7 +5,6 @@
       <mapping pattern="exludes" type="PLAIN_TEXT" />
       <mapping pattern="deploy_bash" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="yarn" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
@@ -14,8 +13,8 @@
       <mapping ext="prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="ProductsList" type="TypeScript" />
       <mapping pattern="notification" type="TypeScript" />
-      <mapping pattern="productListModel" type="TypeScript" />
       <mapping pattern="Cluster" type="TypeScript" />
+      <mapping pattern="productListModel" type="TypeScript" />
       <mapping pattern="ProductsListModel" type="TypeScript" />
       <mapping pattern="AddressStep" type="TypeScript JSX" />
       <mapping pattern="ProfileModel" type="TypeScript JSX" />
