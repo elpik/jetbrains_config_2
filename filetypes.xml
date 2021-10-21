@@ -11,6 +11,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="buffer" type="PLAIN_TEXT" />
+      <mapping ext="prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="ProductsList" type="TypeScript" />
       <mapping pattern="notification" type="TypeScript" />
       <mapping pattern="productListModel" type="TypeScript" />
