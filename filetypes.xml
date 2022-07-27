@@ -15,6 +15,7 @@
       <mapping ext="prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="ProductsList" type="TypeScript" />
       <mapping pattern="notification" type="TypeScript" />
+      <mapping pattern="deployToTest" type="TypeScript" />
       <mapping pattern="Cluster" type="TypeScript" />
       <mapping pattern="productListModel" type="TypeScript" />
       <mapping pattern="ProductsListModel" type="TypeScript" />
